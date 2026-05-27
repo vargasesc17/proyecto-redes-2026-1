@@ -3,6 +3,8 @@ En este repositorio se van a manejar las entregas para la realización de una re
 
 En la zona de la Wiki del repositorio va a poder ver con mayor detalle todas las especificaciones técnicas y desrrollo del proyecto.
 
+‼️ Por temas de tiempo profe, no alcanzamos a adjuntar los archivos de configuración de las Máquinas Virtuales, ya que nos excederíamos del tiempo de entrega de los archivos.
+
 ## Integrantes 🧑🏽‍💻👩🏻‍💻👨🏽‍💻 
 
 - Miguel Ángel Coronado Rojas - 327087
